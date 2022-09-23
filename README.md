@@ -1,5 +1,5 @@
 # Chees
-Javascript Chess
+Java Chess
 
 Replica of the Game Chees for Object Oriented Programming Class
 
